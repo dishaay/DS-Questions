@@ -1,24 +1,28 @@
 1class Solution {
 2    public void moveZeroes(int[] arr) {
-3    // 2 pointer approach where my j will be pointing to a zero element and i will be pointing to a non-zero element. 
+3   // 2 pointer appraoch where i will first my zero element and have my j point to it, i will simply iterate through the array and will give me my non-zero element which will be later used to swap the elements. ok! 
 4
-5    //finding the non-zero element for j 
-6    int j=0; 
-7    int temp;
-8    for(int i=0;i<arr.length;i++){
-9        if(arr[i]==0){
-10            j=i;
-11            break;
-12        }
-13    }
-14
-15    for(int i=j+1;i<arr.length;i++){
-16        if(arr[i]!=0 && arr[j]==0){
-17            temp=arr[i]; 
-18            arr[i]=arr[j];
-19            arr[j]=temp;
-20            j++;
-21        }
-22    }
-23}
-24}
+5   //finding my first non-zero element. 
+6    int j= -1; 
+7   for(int i=0;i<arr.length;i++){
+8    if(arr[i]==0){
+9     j=i; // i got my first zero in the array so now just break. 
+10     break;    
+11    }
+12   }
+13
+14   if(j==-1){
+15    //if there are no zero elements. 
+16    return; 
+17   }
+18
+19   for (int i=j+1; i<arr.length; i++){
+20    if(arr[i]!=0){
+21        int temp= arr[j]; 
+22        arr[j]=arr[i]; 
+23        arr[i]=temp; //i swapped my elements here. 
+24        j++; 
+25    }
+26   }
+27}
+28}
