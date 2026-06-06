@@ -18,9 +18,9 @@
 18
 19   for (int i=j+1; i<arr.length; i++){
 20    if(arr[i]!=0){
-21        int temp= arr[j]; 
-22        arr[j]=arr[i]; 
-23        arr[i]=temp; //i swapped my elements here. 
+21        int temp= arr[i]; 
+22        arr[i]=arr[j]; 
+23        arr[j]=temp; //i swapped my elements here. 
 24        j++; 
 25    }
 26   }
