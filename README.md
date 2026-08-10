@@ -35,6 +35,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0141-linked-list-cycle](https://github.com/dishaay/DS-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/dishaay/DS-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/dishaay/DS-Questions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dishaay/DS-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -61,6 +62,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dishaay/DS-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
