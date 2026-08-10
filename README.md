@@ -59,12 +59,14 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dishaay/DS-Questions/tree/master/0002-add-two-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/dishaay/DS-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/dishaay/DS-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/dishaay/DS-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -77,4 +79,8 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/dishaay/DS-Questions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
