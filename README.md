@@ -62,10 +62,19 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/dishaay/DS-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
