@@ -41,6 +41,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dishaay/DS-Questions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +58,12 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dishaay/DS-Questions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dishaay/DS-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
