@@ -1,19 +1,25 @@
-class Solution {    
-    public String longestCommonPrefix(String[] str) {
-        //your code goes here
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        StringBuilder s= new StringBuilder();
+        //calculate the minimum length first. 
+        int minLength=strs[0].length();
+        for(int i=0;i<strs.length;i++){
+            minLength=Math.min(strs[i].length(),minLength);
+        }
+        //i will traverse through the characters firs, that is first i will decide which character i am gonna compare! 
 
-        int minLength= str[0].length();
-        for(int i=1;i<str.length;i++){
-             minLength=Math.min(minLength,str[i].length());
-        } //to calculate the shortest string among all the strings. 
-
-        for(int i=0;i<minLength;i++){ //it is traversing through the characters 
-            for(int j=1;j<str.length;j++){ //it is traversing through the actual string. 
-                if(str[j].charAt(i)!=str[0].charAt(i)){
-                    return str[0].substring(0,i);
+        for(int i=0;i<minLength;i++){ //characters
+            for(int j=1;j<strs.length;j++){ //words
+                if(strs[0].charAt(i)!=strs[j].charAt(i)){
+                   return s.toString();
+                    
                 }
             }
-        }
+             s.append(strs[0].charAt(i));
 
-return str[0].substring(0, minLength);    }
+
+        }
+            return s.toString();
+
+    }
 }
