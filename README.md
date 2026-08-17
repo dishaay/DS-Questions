@@ -75,6 +75,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -83,4 +84,8 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/dishaay/DS-Questions/tree/master/1903-largest-odd-number-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
