@@ -75,6 +75,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
 ## Trie
@@ -88,6 +89,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
