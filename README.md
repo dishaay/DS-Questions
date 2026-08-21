@@ -78,6 +78,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0033-search-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Trie
 |  |
@@ -93,5 +94,6 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0033-search-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
