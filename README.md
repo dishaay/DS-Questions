@@ -37,6 +37,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dishaay/DS-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dishaay/DS-Questions/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dishaay/DS-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -61,6 +62,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | ------- |
 | [0002-add-two-numbers](https://github.com/dishaay/DS-Questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/dishaay/DS-Questions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/dishaay/DS-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -84,6 +86,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dishaay/DS-Questions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Trie
 |  |
