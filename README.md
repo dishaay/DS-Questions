@@ -88,6 +88,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0162-find-peak-element](https://github.com/dishaay/DS-Questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dishaay/DS-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Trie
 |  |
 | ------- |
