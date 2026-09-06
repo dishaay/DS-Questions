@@ -39,6 +39,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0151-reverse-words-in-a-string](https://github.com/dishaay/DS-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/dishaay/DS-Questions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dishaay/DS-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dishaay/DS-Questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dishaay/DS-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Trie
