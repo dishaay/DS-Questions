@@ -28,6 +28,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dishaay/DS-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -64,6 +66,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0002-add-two-numbers](https://github.com/dishaay/DS-Questions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/dishaay/DS-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/dishaay/DS-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -88,6 +91,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dishaay/DS-Questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dishaay/DS-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -109,9 +113,14 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dishaay/DS-Questions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dishaay/DS-Questions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
