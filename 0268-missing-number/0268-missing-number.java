@@ -1,18 +1,14 @@
 class Solution {
     public int missingNumber(int[] arr) {
-        for(int i=0;i<=arr.length;i++){
-            boolean found= false;
-            for(int j=0;j<arr.length;j++){
-                if(i==arr[j]){
-                    found=true;
-                    break;
-                }
-            }
-            if(found==false){
-                return i;
-            }
-        }
-        return -1;
+        int n=arr.length; 
+        int eSum = (n*(n+1))/2;
+        int aSum= 0 ; 
+        for(int i=0;i<arr.length;i++){
+            aSum += arr[i];
+        }    
+
+        return eSum-aSum;
     }
+    
     
 }
