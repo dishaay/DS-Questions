@@ -93,6 +93,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/dishaay/DS-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dishaay/DS-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Trie
