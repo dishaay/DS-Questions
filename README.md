@@ -26,6 +26,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dishaay/DS-Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/dishaay/DS-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dishaay/DS-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/dishaay/DS-Questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0033-search-in-rotated-sorted-array) |
