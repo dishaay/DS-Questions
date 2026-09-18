@@ -35,6 +35,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dishaay/DS-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dishaay/DS-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
@@ -55,6 +56,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 ## Merge Sort
@@ -89,6 +91,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0033-search-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/dishaay/DS-Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -128,4 +131,12 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | ------- |
 | [0136-single-number](https://github.com/dishaay/DS-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
