@@ -29,6 +29,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0001-two-sum](https://github.com/dishaay/DS-Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/dishaay/DS-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -53,11 +54,13 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dishaay/DS-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
@@ -96,6 +99,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0136-single-number](https://github.com/dishaay/DS-Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dishaay/DS-Questions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishaay/DS-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dishaay/DS-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0283-move-zeroes) |
@@ -139,4 +143,12 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
