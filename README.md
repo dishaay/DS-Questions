@@ -45,6 +45,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0234-palindrome-linked-list](https://github.com/dishaay/DS-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dishaay/DS-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/dishaay/DS-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0485-max-consecutive-ones](https://github.com/dishaay/DS-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dishaay/DS-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/dishaay/DS-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
@@ -159,4 +161,8 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | ------- |
 | [0053-maximum-subarray](https://github.com/dishaay/DS-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishaay/DS-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/dishaay/DS-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
