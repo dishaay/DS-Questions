@@ -99,6 +99,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dishaay/DS-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dishaay/DS-Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dishaay/DS-Questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dishaay/DS-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -166,5 +167,10 @@ This is the repo of practice questions I have done so far. This repo is just mad
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dishaay/DS-Questions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dishaay/DS-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dishaay/DS-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
