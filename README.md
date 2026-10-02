@@ -27,6 +27,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dishaay/DS-Questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/dishaay/DS-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dishaay/DS-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dishaay/DS-Questions/tree/master/0169-majority-element) |
@@ -100,6 +101,7 @@ This is the repo of practice questions I have done so far. This repo is just mad
 | [0035-search-insert-position](https://github.com/dishaay/DS-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dishaay/DS-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dishaay/DS-Questions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dishaay/DS-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dishaay/DS-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/dishaay/DS-Questions/tree/master/0118-pascals-triangle) |
@@ -177,4 +179,5 @@ This is the repo of practice questions I have done so far. This repo is just mad
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dishaay/DS-Questions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/dishaay/DS-Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
